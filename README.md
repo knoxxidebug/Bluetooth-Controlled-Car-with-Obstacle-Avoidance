@@ -1,3 +1,6 @@
+# **Bluetooth-Controlled-Car-with-Obstacle-Avoidance**
+
+
 The primary purpose of developing a Bluetooth-controlled car with obstacle avoidance is to create a smart,
 interactive, and versatile vehicle that can be remotely controlled using a smartphone or computer. Beyond
 its entertainment value, this project serves as an educational platform, allowing individuals to gain
